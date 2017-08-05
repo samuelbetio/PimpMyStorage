@@ -8,7 +8,7 @@ a autorun.inf for your usb storage.
 
 Quick Start :
 ```
-git clone https://github.com/ImoucheG/PimpMyStorage.git
+git clone https://github.com/samuelbetio/PimpMyStorage.git
 ```
 
 ```
@@ -21,4 +21,7 @@ Information :
 
 - Java 1.8 is using
 - Maven with compiler 3.3
-- Author : ImoucheG, imouche.guillaume@gmail.com
+- Author : Samuel Betio, samuelbetio@gmail.com
+
+
+
